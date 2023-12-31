@@ -18,10 +18,13 @@ This project is a JavaScript implementation of a snake game, and I referred to t
 ### Info
 Practice JavaScript.
 
+>Play Game Link
+  - https://devlunch4.github.io/snake-game-js/index.html
+
 ### Reference_Link
 >YouTube Video Link
-- Original: https://youtu.be/05kCgeIIjkY?si=KoaMD18zChkv9eLg
-- freecodecamp: https://youtu.be/uyhzCBEGaBY?si=4tdlp9xkeSHZWWCj.
+  - Original: https://youtu.be/05kCgeIIjkY?si=KoaMD18zChkv9eLg
+  - freecodecamp: https://youtu.be/uyhzCBEGaBY?si=4tdlp9xkeSHZWWCj.
 
 
 ## My process
